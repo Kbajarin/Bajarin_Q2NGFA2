@@ -1,0 +1,44 @@
+.navbar{
+    position:fixed;
+    background-color:rgb(40, 44, 151);
+    padding-bottom:20px;
+    padding-top:20px;
+    top:0px;
+    width:100%;
+    z-index:3;}
+#art{
+    position:absolute;
+    margin-top:50px;
+}
+#sprite{
+    background: url('sprite3.png') no-repeat -513px -146px;
+    width: 66px;
+    height: 67px;
+
+}
+#sprite2{
+	background: url('sprite3.png') no-repeat -439px -221px;
+	width: 66px;
+	height: 66px;
+
+}
+#sprite3{
+	background: url('sprite3.png') no-repeat -216px -221px;
+	width: 66px;
+	height: 66px;
+
+}
+.icon{
+    position:absolute;
+    bottom:0px;
+}
+.buttno{
+        margin-left:40px;
+        color:aqua;
+        border:2px solid black;
+}
+@media screen and(max-width:640px;){
+
+
+    
+}
